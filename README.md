@@ -1,2 +1,1 @@
-# Excel_Module_1
-Module One Due on 12/22/2002
+# This is an example of an excel analysis
